@@ -444,7 +444,7 @@ La communication est sans conteste une aptitude essentielle que doit posséder t
 								</div>										
 							</div>
 
-							<!--<div class="price-box col-sm-6 col-md-3 wow flipInY" data-wow-delay="0.5s">
+							<div class="price-box col-sm-6 col-md-3 wow flipInY" data-wow-delay="0.5s">
 								<div class="panel panel-default">
 									<div class="panel-heading text-center">
 										<img src = "./img/icon/sponserIcon.png">
@@ -454,7 +454,7 @@ La communication est sans conteste une aptitude essentielle que doit posséder t
 										<a class="btn btn-default" href="./Document/SponsorshipDocumentEN.pdf">Download</a>
 									</div>
 								</div>										
-							</div>-->
+							</div>
 							
 							<div class="price-box col-sm-6 col-md-3 wow flipInY" data-wow-delay="0.7s">
 								<div class="panel panel-default">
